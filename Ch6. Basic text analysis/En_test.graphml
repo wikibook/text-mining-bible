@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="undirected"><node id="health"/>
+<node id="people"/>
+<node id="researcher"/>
+<node id="study"/>
+<node id="tie"/>
+<node id="interaction"/>
+<node id="friend"/>
+<node id="others"/>
+<node id="exercise"/>
+<node id="connection"/>
+<edge source="health" target="interaction">
+  <data key="d0">3</data>
+</edge>
+<edge source="health" target="friend">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="study">
+  <data key="d0">3</data>
+</edge>
+<edge source="health" target="people">
+  <data key="d0">5</data>
+</edge>
+<edge source="health" target="tie">
+  <data key="d0">2</data>
+</edge>
+<edge source="health" target="others">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="connection">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="researcher">
+  <data key="d0">4</data>
+</edge>
+<edge source="health" target="exercise">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="friend">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="study">
+  <data key="d0">3</data>
+</edge>
+<edge source="people" target="tie">
+  <data key="d0">3</data>
+</edge>
+<edge source="people" target="others">
+  <data key="d0">2</data>
+</edge>
+<edge source="people" target="connection">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="researcher">
+  <data key="d0">3</data>
+</edge>
+<edge source="people" target="interaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="researcher" target="tie">
+  <data key="d0">3</data>
+</edge>
+<edge source="researcher" target="exercise">
+  <data key="d0">2</data>
+</edge>
+<edge source="researcher" target="connection">
+  <data key="d0">2</data>
+</edge>
+<edge source="researcher" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="researcher" target="interaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="friend">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="tie">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="others">
+  <data key="d0">2</data>
+</edge>
+<edge source="study" target="connection">
+  <data key="d0">1</data>
+</edge>
+<edge source="tie" target="others">
+  <data key="d0">1</data>
+</edge>
+<edge source="tie" target="exercise">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

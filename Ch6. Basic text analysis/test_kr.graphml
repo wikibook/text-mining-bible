@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="undirected"><node id="교황"/>
+<node id="대통령"/>
+<node id="한반도"/>
+<node id="평화"/>
+<node id="바티칸"/>
+<node id="방북"/>
+<node id="프로세스"/>
+<node id="북한"/>
+<node id="영국"/>
+<node id="독일"/>
+<edge source="교황" target="영국">
+  <data key="d0">1</data>
+</edge>
+<edge source="교황" target="대통령">
+  <data key="d0">6</data>
+</edge>
+<edge source="교황" target="독일">
+  <data key="d0">1</data>
+</edge>
+<edge source="교황" target="바티칸">
+  <data key="d0">4</data>
+</edge>
+<edge source="교황" target="프로세스">
+  <data key="d0">3</data>
+</edge>
+<edge source="교황" target="방북">
+  <data key="d0">5</data>
+</edge>
+<edge source="교황" target="평화">
+  <data key="d0">3</data>
+</edge>
+<edge source="교황" target="한반도">
+  <data key="d0">3</data>
+</edge>
+<edge source="교황" target="북한">
+  <data key="d0">3</data>
+</edge>
+<edge source="대통령" target="영국">
+  <data key="d0">2</data>
+</edge>
+<edge source="대통령" target="독일">
+  <data key="d0">2</data>
+</edge>
+<edge source="대통령" target="바티칸">
+  <data key="d0">4</data>
+</edge>
+<edge source="대통령" target="프로세스">
+  <data key="d0">3</data>
+</edge>
+<edge source="대통령" target="방북">
+  <data key="d0">2</data>
+</edge>
+<edge source="대통령" target="평화">
+  <data key="d0">3</data>
+</edge>
+<edge source="대통령" target="한반도">
+  <data key="d0">3</data>
+</edge>
+<edge source="대통령" target="북한">
+  <data key="d0">2</data>
+</edge>
+<edge source="한반도" target="프로세스">
+  <data key="d0">5</data>
+</edge>
+<edge source="한반도" target="방북">
+  <data key="d0">1</data>
+</edge>
+<edge source="한반도" target="평화">
+  <data key="d0">5</data>
+</edge>
+<edge source="한반도" target="바티칸">
+  <data key="d0">2</data>
+</edge>
+<edge source="한반도" target="독일">
+  <data key="d0">1</data>
+</edge>
+<edge source="한반도" target="영국">
+  <data key="d0">1</data>
+</edge>
+<edge source="평화" target="프로세스">
+  <data key="d0">5</data>
+</edge>
+<edge source="평화" target="방북">
+  <data key="d0">1</data>
+</edge>
+<edge source="평화" target="바티칸">
+  <data key="d0">2</data>
+</edge>
+<edge source="평화" target="독일">
+  <data key="d0">1</data>
+</edge>
+<edge source="평화" target="영국">
+  <data key="d0">1</data>
+</edge>
+<edge source="바티칸" target="영국">
+  <data key="d0">1</data>
+</edge>
+<edge source="바티칸" target="독일">
+  <data key="d0">1</data>
+</edge>
+<edge source="바티칸" target="프로세스">
+  <data key="d0">2</data>
+</edge>
+<edge source="바티칸" target="방북">
+  <data key="d0">1</data>
+</edge>
+<edge source="방북" target="프로세스">
+  <data key="d0">1</data>
+</edge>
+<edge source="방북" target="북한">
+  <data key="d0">2</data>
+</edge>
+<edge source="프로세스" target="독일">
+  <data key="d0">1</data>
+</edge>
+<edge source="프로세스" target="영국">
+  <data key="d0">1</data>
+</edge>
+<edge source="영국" target="독일">
+  <data key="d0">3</data>
+</edge>
+</graph></graphml>
